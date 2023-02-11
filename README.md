@@ -10,7 +10,7 @@ This example web app is used as an instrument for AWS EC2 tutorial for a Youtube
 
 - ጫን/Install [Node.js](https://nodejs.org/en/download/)
 
-## Running the Server
+## ድህረገፅ መጀመር/Running the Server
 
-- Run the following command `node app.js`
-- Then, you should see `Server running at http://localhost:80/` log.
+- የሚከተለውን ትዕዛዝ ይተይቡ/Run the following command `node app.js`
+- ከዚያም ይህንን መልእክት ታያለህ/Then, you should see `Server running at http://localhost:80/` log.
